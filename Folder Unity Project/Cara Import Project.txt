@@ -1,0 +1,6 @@
+1. Download Unity Editor Versi 2021.1.7f1
+2. Bikin akun baru dan uji coba gratis 30 hari
+3. Klik new project, trus pilih yang 2D, masukan nama file dan tunggu sampai project baru terbuka
+4. Lalu, buka file explorer, ke tempat folder project
+5. Paste 3 file di atas dan replace
+5. Lalu buka unity editor dan tunggu hingga file terimport
